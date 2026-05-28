@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definitions for users sap'
+define service ZSD_USERS_SAP {
+  expose ZC_USERS_SAP as Users;
+}
